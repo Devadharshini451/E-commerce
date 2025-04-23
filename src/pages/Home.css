@@ -1,0 +1,30 @@
+.home-page {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 8px black;
+  }
+  
+  .home-content {
+    background: rgba(0, 0, 20, 0.7);
+    padding: 2rem 3rem;
+    border-radius: 16px;
+    box-shadow: 0 0 30px #00f0ff;
+    backdrop-filter: blur(6px);
+  }
+  
+  .home-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #00f0ff;
+  }
+  
+  .home-content p {
+    font-size: 1.2rem;
+  }
+  
